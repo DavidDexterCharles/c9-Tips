@@ -9,6 +9,7 @@
 
 ###### Text Editor
 * [Nano](https://www.youtube.com/watch?v=k3XdhVwzIlk)
+
 ###### Python
 * [Flask](http://flask.pocoo.org/docs/0.11/quickstart/#quickstart)
 * [Django](https://docs.djangoproject.com/en/1.10/)
