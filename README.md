@@ -19,7 +19,8 @@
 * [Django](https://docs.djangoproject.com/en/1.10/)
 
 ###### Docker
-* [Virtualenv v.s Docker](http://stackoverflow.com/questions/27017715/does-virtualenv-serve-a-purpose-in-production-when-using-docker)
+* [1st Virtualenv v.s Docker](http://stackoverflow.com/questions/27017715/does-virtualenv-serve-a-purpose-in-production-when-using-docker)
+* [2nd Virtualenv v.s Docker](http://www.markbetz.net/2014/01/17/python-if-you-have-docker-do-you-need-virtualenv/)
 
 ###### Laravel
 
