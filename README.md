@@ -12,7 +12,7 @@
 
 ###### Python
 * [Flask](http://flask.pocoo.org/docs/0.11/quickstart/#quickstart)
-....*[SQL Alchemy] (http://flask.pocoo.org/docs/0.11/patterns/sqlalchemy/)
+..* [SQL Alchemy](http://flask.pocoo.org/docs/0.11/patterns/sqlalchemy/)
 * [Django](https://docs.djangoproject.com/en/1.10/)
 
 ###### Laravel
