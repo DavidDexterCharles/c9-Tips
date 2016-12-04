@@ -12,9 +12,7 @@
 
 ###### Python
 * [Flask](http://flask.pocoo.org/docs/0.11/quickstart/#quickstart)
-
  * [SQL Alchemy](http://flask.pocoo.org/docs/0.11/patterns/sqlalchemy/)
-
 * [Django](https://docs.djangoproject.com/en/1.10/)
 
 ###### Laravel
@@ -23,9 +21,7 @@
 * [Create Laravel project with COMPOSER ](https://laravel.com/docs/5.0) 
 *  composer create-project laravel/laravel ExampleProject --prefer-dist
 *  php artisan make:migration create_examples_table --create=examples
-
 * php artisan make:controller ExampleController
-
 * php artisan serve --host=0.0.0.0 --port=8082
 
 * php artisan route:list
