@@ -12,6 +12,7 @@
 
 ###### Python
 * [Flask](http://flask.pocoo.org/docs/0.11/quickstart/#quickstart)
+ * [Tutorial](http://flask.pocoo.org/docs/0.11/tutorial/)
  * [Installation](http://flask.pocoo.org/docs/0.11/installation/#installation)
  * [Flask Documentation](http://flask.pocoo.org/docs/0.11/api/#flask.Flask)
  * [SQL Alchemy](http://flask.pocoo.org/docs/0.11/patterns/sqlalchemy/)
