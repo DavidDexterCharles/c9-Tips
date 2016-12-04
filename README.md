@@ -23,13 +23,8 @@
 *  php artisan make:migration create_examples_table --create=examples
 * php artisan make:controller ExampleController
 * php artisan serve --host=0.0.0.0 --port=8082
-
 * php artisan route:list
-
 * php artisan migrate
-
 * php artisan migrate:rollback
-
 * php artisan migrate:refresh
-
 * composer dump-autoload
