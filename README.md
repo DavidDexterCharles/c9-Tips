@@ -16,6 +16,9 @@
  * [SQL Alchemy](http://flask.pocoo.org/docs/0.11/patterns/sqlalchemy/)
 * [Django](https://docs.djangoproject.com/en/1.10/)
 
+###### Docker
+* [Virtualenv VS Docker](http://stackoverflow.com/questions/27017715/does-virtualenv-serve-a-purpose-in-production-when-using-docker)
+
 ###### Laravel
 
 * [File System/Cloud Storage](https://laravel.com/docs/5.3/filesystem)
