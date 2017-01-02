@@ -12,6 +12,7 @@
 
 ###### Python
 * [Flask](http://flask.pocoo.org/docs/0.11/quickstart/#quickstart)
+ * [virtualenv](http://www.enigmeta.com/blog/starting-flask/)
  * [Tutorial](http://flask.pocoo.org/docs/0.11/tutorial/)
  * [Installation](http://flask.pocoo.org/docs/0.11/installation/#installation)
  * [Flask Documentation](http://flask.pocoo.org/docs/0.11/api/#flask.Flask)
