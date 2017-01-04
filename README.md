@@ -1,5 +1,8 @@
 # Quick Tips
 
+###### ERD
+* [Lucid Chart](https://www.lucidchart.com/users/login)
+
 ###### MySQL
 * [Stored Procedure](https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-stored-procedures.html)
   * [mysqltutorial](http://www.mysqltutorial.org/introduction-to-sql-stored-procedures.aspx)
