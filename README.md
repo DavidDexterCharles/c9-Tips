@@ -1,5 +1,8 @@
 # Quick Tips
 
+###### JQuery
+* [jQuery.post()](https://api.jquery.com/jquery.post/)
+
 ###### ERD
 * [Lucid Chart](https://www.lucidchart.com/users/login)
 
