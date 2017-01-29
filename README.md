@@ -17,6 +17,7 @@
   
 
 ###### Cloud 9 IDE
+* [Emmet](https://c9.io/blog/emmet/)
 * [PHP MyAdmin](https://community.c9.io/t/setting-up-phpmyadmin/1723)
 * [Setting up PostgreSQL](https://community.c9.io/t/setting-up-postgresql/1573)
 * [Setting Up phpPgAdmin](https://community.c9.io/t/setting-up-phppgadmin/1571)
