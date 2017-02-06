@@ -3,7 +3,8 @@
 ###### JQuery
 * [jQuery.post()](https://api.jquery.com/jquery.post/)
 
-###### Test Data
+###### Useful Tools & Test Data
+*[Paste Bin] (http://pastebin.com/api)
 * [Very useful Tool] (http://peric.github.io/GetCountries/)
 * [Mockaroo] (http://mockaroo.com/)
 
