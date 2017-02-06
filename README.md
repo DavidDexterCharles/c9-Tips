@@ -4,7 +4,7 @@
 * [jQuery.post()](https://api.jquery.com/jquery.post/)
 
 ###### Useful Tools & Test Data
-*[Paste Bin] (http://pastebin.com/api)
+* [Paste Bin] (http://pastebin.com/api)
 * [Very useful Tool] (http://peric.github.io/GetCountries/)
 * [Mockaroo] (http://mockaroo.com/)
 
